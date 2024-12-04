@@ -1,0 +1,17 @@
+{
+  "name": "com.savesystem.core",
+  "author": "Fluidios",
+  "displayName": "SaveSystem",
+  "description": "KoroToolsSave System Wrapper (SSW) is a robust and flexible save system for Unity game development. It provides an easy-to-use API for saving and loading game data, ensuring data integrity and consistency across different save systems.",
+  "unity": "2020.3",
+  "version": "1.0.0",
+  "keywords": [
+    "Fluidios"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fluidios/SaveSystemWrapper"
+  },
+  "type": "",
+  "dependencies": {}
+}
