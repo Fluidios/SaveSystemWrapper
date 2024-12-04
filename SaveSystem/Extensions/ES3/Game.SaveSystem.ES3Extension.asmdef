@@ -1,0 +1,17 @@
+{
+    "name": "Game.SaveSystem.ES3Extension",
+    "rootNamespace": "Game.SaveSystem.ES3Extension",
+    "references": [
+        "GUID:1e7e731d71515654da0bd2ff34301289",
+        "GUID:7c9e5179f24b1cd4a800b8bc5635e49f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

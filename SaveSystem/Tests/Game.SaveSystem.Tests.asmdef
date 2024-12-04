@@ -1,0 +1,20 @@
+{
+    "name": "Game.SaveSystem.Tests",
+    "rootNamespace": "Game.SaveSystem.Tests",
+    "references": [
+        "GUID:1e7e731d71515654da0bd2ff34301289"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
