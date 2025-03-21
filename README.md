@@ -11,7 +11,8 @@ Save System Wrapper (SSW) is a robust and flexible save system for Unity game de
 After installing into project this solutions is ready to go.
 
 ## Usage
-Here is a basic example of how to use SSW in your project:
+From scratch SSW uses PlayerPrefs to save data, supported types: string, int, bool;
+Here is a basic example of how to use SSW in your project(currently used save system platform should support custom classes serialization):
 
 ### Saving Data
 ```csharp
